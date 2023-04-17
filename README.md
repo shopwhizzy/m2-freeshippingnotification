@@ -13,6 +13,8 @@ Magento 2 module to display the remaining amount to get free shipping, at cart p
 
 Module available to download here: https://mgt-wizards.com/free-shipping-notification-for-magento-2
 
+![alt text](https://github.com/mgtwizards/m2-freeshippingnotification/blob/main/preview.jpeg?raw=true)
+
 ## Installation
 
 \* = in production please use the `--keep-generated` option
