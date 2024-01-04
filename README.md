@@ -5,15 +5,14 @@
 -   [Main Functionalities](#markdown-header-main-functionalities)
 -   [Installation](#markdown-header-installation)
 -   [Configuration](#markdown-header-configuration)
--   [Specifications](#markdown-header-specifications)
 
 ## Main Functionalities
 
 Magento 2 module to display the remaining amount to get free shipping, at cart page.
 
-Module available to download here: https://mgt-wizards.com/free-shipping-notification-for-magento-2
+Send us an email requesting the module https://shopwhizzy.com/help-center/
 
-![alt text](https://github.com/mgtwizards/m2-freeshippingnotification/blob/main/preview.jpeg?raw=true)
+Free of charge.
 
 ## Installation
 
